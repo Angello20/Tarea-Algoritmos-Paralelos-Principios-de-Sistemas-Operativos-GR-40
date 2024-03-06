@@ -1,0 +1,1 @@
+# Tarea-Algoritmos-Paralelos-Principios-de-Sistemas-Operativos-GR-40
